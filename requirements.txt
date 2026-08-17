@@ -17,3 +17,6 @@ requests
 lxml
 rich
 
+
+
+langgraph
